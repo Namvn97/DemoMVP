@@ -1,10 +1,10 @@
-package com.example.namp5.demomvp.Login;
+package com.example.namp5.demomvp.login;
 
 /**
  * Created by namp5 on 12/19/2018.
  */
 
-public class PresenterLogin implements LoginContract.Presenter {
+public class LoginPresenter implements LoginContract.Presenter {
     private LoginContract.View mView;
 
     public void setView(LoginContract.View view){
