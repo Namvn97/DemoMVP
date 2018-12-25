@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">DemoMVP</string>
-    <string name="text_login">Login</string>
+    <string name="text_login">Wecomel to Login</string>
     <string name="text_password">Password</string>
-    <string name="text_ok">OK</string>
+    <string name="text_ok">Login</string>
+    <string name="text_user_name">User Name</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_continue">Continue</string>
+    <string name="text_title_signup">Wecomel to Sign Up MVP</string>
+    <string name="text_sign_up">Sign Up</string>
 </resources>
 
